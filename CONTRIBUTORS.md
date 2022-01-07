@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+[@ArinSantry](https://github.com/ArinSantry)
+
 - [@dan-sftdev](https://github.com/dan-sftdev)
 
 - [@jaminwebdev](https://github.com/jaminwebdev)
